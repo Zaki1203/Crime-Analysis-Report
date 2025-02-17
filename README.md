@@ -206,17 +206,45 @@ The **Detail Page** serves as a **drill-through page** in the crime analysis rep
 ## Analysis
 
 1. Total Crime by Year
-
 Highest Crimes were reported in the year 2022 with 1150 cases and lowest cases in 2021 with 405 crimes
 
-
 2. Crimes on Dayweek
-
 Most of the crimes are reported on sunday with 375,Friday with 368 ,Monday with 367 and lowest on tuesday with 327 
 
-1. Total Crime by Time Group
+3. Total Crime by Time Group
+The analysis revealed that the highest number of crimes were reported during the 12:00 AM - 2:59 AM time group with 638 crime reports. This was followed by the 9:00 AM - 11:59 AM time group with 607reports , which recorded the second-highest crime frequency. Conversely, the lowest number of crimes were reported during the 12:00 PM - 2:59 PM time group with 191 reports
 
-The analysis revealed that the highest number of crimes were reported during the 12:00 AM - 2:59 AM time group. This was followed by the 9:00 AM - 11:59 AM time group, which recorded the second-highest crime frequency. Conversely, the lowest number of crimes were reported during the 12:00 PM - 2:59 PM time group.
+4. Total Crime by Country
+Highest crimes were reported from Austria with 879 cases followed by finland with 331 cases ,uk with 219 cases and switzerland,belgium  with lowest crime reported with 18 cases
+
+5. Crime Type
+-Highest crimes reported were of violence & sexual offence,anti-social behaviour,Public order and Criminal damage with lowest crime reports from possession of weapon
 
 
+## Suggestions
+
+Enhance Nighttime Policing
+-Allocate additional resources and patrols during the 12:00 AM - 2:59 AM time group, which has the highest crime frequency. Implement community policing initiatives to deter late-night criminal activity.
+
+Focus on High-Crime Days
+-Increase law enforcement presence on Sundays, Fridays, and Mondays, which consistently report higher crime rates. Public awareness campaigns can also discourage criminal behavior during these days.
+
+Regional Crime Prevention Strategies
+
+Develop tailored crime prevention programs for high-crime regions like Austria and Finland. Collaborate with local authorities to address specific challenges and reduce crime rates.
+
+Address Violent and Public Order Crimes
+-Prioritize resources to combat Violence & Sexual Offences, Anti-Social Behaviour, and Public Order crimes. Strengthen community engagement programs to address root causes such as social inequality and substance abuse.
+
+Improve Resolution Rates
+-Invest in advanced investigative tools, training, and technology to improve the 29.96% unresolved crime rate. Streamline case management systems to ensure timely resolution of incidents.
+
+Leverage Data-Driven Insights
+-Use the Crime Analysis Report to identify emerging trends and allocate resources effectively. Regularly update the dataset and analysis to adapt to changing crime patterns.
+
+Community Engagement and Awareness
+-Launch public awareness campaigns to educate citizens about crime prevention measures, especially during high-risk periods. Encourage community reporting and cooperation with law enforcement.
+
+Cross-Country Collaboration
+Foster collaboration between countries with high crime rates (e.g., Austria, Finland) to share best practices, intelligence, and resources for combating transnational crimes.
 
